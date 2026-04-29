@@ -1,0 +1,8 @@
+# Walmart Sales — Bloc 3 (Régression supervisée)
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
